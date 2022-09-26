@@ -33,7 +33,7 @@ The API is split in 3 level according to the user needs:
 Two examples are provided to illustrate the usage of the **high level API** and the **regular api**.
 See [Iotics Identity API How To](https://github.com/Iotic-Labs/iotics-identity-py/tree/main/how_to/README.md).
 
-You can also follow these tutorials on [docs.iotics.com](https://docs.iotics.com/docs/create-decentralized-identity-documents).
+You can also follow these tutorials on [docs.iotics.com]([https://docs.iotics.com/docs/create-decentralized-identity-documents](https://docs.iotics.com/docs/identity-api-and-credentials).
 
 * Setup your dev environment: \
   `pip install .[dev]`
